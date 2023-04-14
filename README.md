@@ -51,7 +51,7 @@ Open `edk2/OvmfPkg/OvmfPkgIa32X64.dsc` and add a dependency to HelloSmm.inf
 ```
 ![](Resources/dsc.png)
 
-Similarly, open `edk2/OvmfPkg/OvmfPkgIa32X64.dsc` and add a a dependency to HelloSmm.inf
+Similarly, open `edk2/OvmfPkg/OvmfPkgIa32X64.fdf` and add a a dependency to HelloSmm.inf
 ```
 #
 # Variable driver stack (SMM)
